@@ -1,4 +1,4 @@
-# my-page
+# Personal Page Example
 
 ## Project setup
 ```
@@ -18,6 +18,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Deploy to GitHub Page
+```
+./deploy.sh
 ```
 
 ### Customize configuration
